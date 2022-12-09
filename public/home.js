@@ -104,6 +104,7 @@ function markCompleted(id) {
     .catch(err => console.log(err))
 }
 
-// getPendingAppointments()
-// getUpcomingAppointments()
-// getPastAppointments()
+
+getPendingAppointments()
+ getUpcomingAppointments()
+ getPastAppointments()
